@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1619487646 source:c:\users\usuário\codeblocks projects\minidicionario\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<locale.h>
+
